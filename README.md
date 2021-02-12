@@ -1,0 +1,1 @@
+Git clone this repository and install dependencies with yarn/npm
