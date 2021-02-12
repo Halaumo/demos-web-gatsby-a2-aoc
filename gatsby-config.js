@@ -1,6 +1,7 @@
 const path = require('path')
 
 module.exports = {
+  pathPrefix: '/demos-web-gatsby-a2-aoc',
   siteMetadata: {
     title: `Gatsby react monorepository`,
     description: `Gatsby configuration.`,
